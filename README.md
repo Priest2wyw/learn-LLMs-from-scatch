@@ -1,7 +1,6 @@
 # learn-LLMs-from-scatch
 learn note and script in the process of learning LLMs-from-scatch
 
-进展
 - [x] appendix-A
 - [ ] ch02
 - [ ] ch03
