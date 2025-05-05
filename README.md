@@ -23,3 +23,4 @@ learn note and script in the process of learning LLMs-from-scatch
 - [1]  [LLM-from-scratch](https://github.com/karpathy/llama2.0-from-scratch)
 - [2] [LLM-from-scratch-cn](https://github.com/yangshun/llama2.0-from-scratch-cn)
 - [3] [LLMForEverybody](https://luhengshiwo.github.io/LLMForEverybody)
+- [4] [白话transformers](https://www.bilibili.com/video/BV1bu4m137W1/?&vd_source=bcb8910cd4fa1af2d43d4ce169458823)
