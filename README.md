@@ -2,7 +2,15 @@
 learn note and script in the process of learning LLMs-from-scatch
 
 - [x] appendix-A
-- [ ] ch02
+- [x]] ch02-tokenization
+    - [x] tokenizer
+        - [x] simple
+        - [ ] bpe
+        - [ ] bbpe   
+    - [ ] pos
+        - [ ] apos
+        - [ ] RoPE
+    - [ ] 
 - [ ] ch03
 - [ ] ch04
 - [ ] ch05
@@ -10,3 +18,8 @@ learn note and script in the process of learning LLMs-from-scatch
 - [ ] ch07
 - [ ] appendix-D
 - [ ] appendix-E
+
+参考资料:
+- [1]  [LLM-from-scratch](https://github.com/karpathy/llama2.0-from-scratch)
+- [2] [LLM-from-scratch-cn](https://github.com/yangshun/llama2.0-from-scratch-cn)
+- [3] [LLMForEverybody](https://luhengshiwo.github.io/LLMForEverybody)
