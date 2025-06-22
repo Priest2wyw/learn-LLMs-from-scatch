@@ -1,3 +1,9 @@
+"""
+let 's implement a simple attention mechanism without training parameters,
+which is called simple attention.
+
+
+"""
 import torch
 
 inputs = torch.tensor(
