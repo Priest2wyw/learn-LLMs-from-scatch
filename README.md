@@ -1,4 +1,11 @@
 # learn-LLMs-from-scatch
+
+```
+pip install uv
+mkdir pkg  
+uv sync --dev --python 3.11
+```
+
 learn note and script in the process of learning LLMs-from-scatch
 
 - [x] appendix-A
@@ -11,8 +18,12 @@ learn note and script in the process of learning LLMs-from-scatch
         - [ ] apos
         - [ ] RoPE
     - [ ] 
-- [ ] ch03
-- [ ] ch04
+- [ ] ch03-attention
+    - [ ] attention
+    - [ ] mult-head attention
+    - [ ] page-attention
+- [ ] ch04-
+
 - [ ] ch05
 - [ ] ch06
 - [ ] ch07
